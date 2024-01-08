@@ -1,0 +1,67 @@
+ @import url('https://fonts.googleapis.com/css2?family=Allura&family=Josefin+Sans&family=Poppins:wght@400;500;600;700&display=swap');
+*{
+    margin: 0;
+    padding:0;
+box-sizing: border-box;
+container: auto;
+}
+body {
+background-color: #80ad59 ;
+font-family: 'Josefin Sans', sans-serif;
+}
+.wrapper {
+    margin-top: 2%;
+    text-align: center;
+    margin-bottom:2%;
+}
+.intro {
+ font-family: 'Allura', cursive;
+   font-weight: 600;
+   color: purple;
+   text-align: center;
+   
+}
+.team {
+    text-align: center;
+    margin-top: 25px;
+}
+.management {
+   margin-top: 5px;
+   text-align: center;
+    justify-content: center;
+}
+.member {
+    padding: 15px;
+}
+.img {
+    width: 90px;
+    height: auto;
+}
+.vp {
+    display:flex;
+   margin-top: 5px;
+   text-align: center;
+    justify-content: center;
+}
+.name {
+    text-align: center;
+    padding: 2px;
+}
+.role {
+    padding: 3px;
+    text-align: center;
+}
+.developers {
+    display:flex;
+   margin-top: 5px;
+   text-align: center;
+    justify-content: center;
+}
+.officers {
+    display:flex;
+   margin-top: 5px;
+   text-align: center;
+    justify-content: center;
+}
+
+
